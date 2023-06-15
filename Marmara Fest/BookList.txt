@@ -1,0 +1,5 @@
+Name: Enes
+Surname: Akturan
+Student No: 150720050
+Department: EEE
+Amount of Ticket: 2
